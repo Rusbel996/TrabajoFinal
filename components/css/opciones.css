@@ -1,0 +1,47 @@
+.opciones{
+        
+    position: relative;
+    top: 12%;
+    left: 12px;
+    height: 100%;
+    width: 10%;
+    background: rgb(41,41,55);
+    background: linear-gradient(90deg, rgba(41,41,55,1) 100%, rgba(2,0,36,1) 100%, rgba(24,96,114,1) 100%, rgba(0,212,255,1) 100%);
+
+}
+
+#cuadro{
+    width: 60em;
+    position: center;
+    left: 150em;
+    bottom: 541px;
+
+  }
+
+  #Update{
+    background-color: blueviolet;
+    color: white;
+    margin-left: 10px;
+  }
+
+#usa{
+    position: relative;
+    left: 100px;
+    top: 197px;
+    height: 58px;
+    width: 76px;
+    background-color: blue;
+
+    
+  }
+
+  #usa1{
+    position: relative;
+    left: 10px;
+    top: 9px;
+    height: 7px;
+    width: 7px;
+    background-color: white;
+
+    
+  }

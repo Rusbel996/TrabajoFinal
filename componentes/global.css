@@ -1,0 +1,168 @@
+/*
+pagina principal
+*/
+#fondo{
+    background-image: url("./imagenes/montañas2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center bottom;
+    background-size: 100% 37% ;
+    
+}
+
+img.mandog {width: 200px; height: 250px;margin-left: 16%;}
+
+#text1{
+    margin-left:10%; 
+    padding-top: 2%;
+    color:white
+}
+
+#botones{
+    padding-left: 2%;
+}
+
+#mbuton{
+    width: 15%; 
+    color: white; 
+    background-color: #FF74F5;
+    border: #FF74F5;
+    margin-left: 2%;
+}
+
+#mboton5{
+    margin-right: 30%;
+}
+
+#caja{
+    margin-top: 5%;
+    color: white;
+}
+
+#caja_text{
+    font-family: arial;
+}
+
+#sub_caja{
+    margin-top: 1%;
+}
+
+#sub_caja2{
+    margin-top: 2%;
+}
+
+#correo{
+    background-color: transparent;
+}
+
+#suscribirse{
+        color: white; 
+        background-color: #FF74F5;
+}
+
+#iconos_sociales{
+    margin-top: 1%;
+}
+
+#final_caja{
+    display: grid;
+    place-content: center;
+    color: white;
+    margin-top: 47px;
+}
+
+img.resize {width: 55px; height: 30px;}
+
+img.listaF {width: 80px; height: 40px; margin-top: 10px;}
+
+/*
+Barrra de navegacion 
+*/
+#barraelemnt{
+    padding-left: 30%;
+}
+
+#barraelemnt_g{
+    padding-left: 8%;
+    padding-bottom: 36%;
+}
+
+#icono_g{
+    padding-bottom: 20%;
+}
+
+#barra{
+    color: white;
+    padding-top: 9px;
+}
+
+#textos{
+    padding-left: 50px;
+}
+
+#iconos{
+    padding-top: 14px;
+    padding-left: 39%;
+}
+
+#navega{
+    color: white;
+}
+
+/*
+Pantalla de lista de objetos de compras
+*/
+#filaCompra{
+    margin-top: 8%; 
+    margin-left: 20%;
+    color: white;
+    margin-right: 20%;
+}
+
+#carritoCompra{
+    width: 50%; 
+    color: white; 
+    background-color: #e748ea; 
+    margin-left: 56%;
+}
+
+#componenteLista{
+    background-color:white;
+    color: black; 
+    margin-top: 1%; 
+    margin-left: 0%;
+    height: 60px; 
+    border-radius: 3px;
+}
+
+#imagenLista{
+    width: 80px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+/*
+Registro
+*/
+
+#primerh1{
+    margin-top: 3%;
+    color: white;
+}
+#campos{
+    margin-top: 5%; 
+    background-color: #3f2d68;
+}
+
+#caja0{
+    margin-top: 3%; 
+    background-color: #3f2d68;
+}
+
+#registrarse{
+    width: 100%; 
+    margin-top: 5%; 
+    margin-bottom: 5%;
+}
+
+
